@@ -2,16 +2,22 @@
 
 WordSnap Analyzer is an AI keyword extractor used to get keywords from text using Open AI's completions Api to extract text from a given paragraph. This project aims to learn and explore Open AI's API.
 
+
 # Getting Started
 
 - clone the repository https://github.com/PriyankaMaru28/WordSnap_Analyzer.git
 - run npm install
 - run npm run dev
 
-- Create a .env file to include the following :
+  # Create a .env file to include the following 
 
-  - VITE_OPENAI_API_KEY (openAI API key)
-  - VITE_OPENAI_API_URL (openAI API URL)
+    - VITE_OPENAI_API_KEY (openAI API key)
+    - VITE_OPENAI_API_URL (openAI API URL)
+
+
+# Tools and Technologies used 
+
+
   
 
 1: Screenshot of the WordSnap Analyzer
