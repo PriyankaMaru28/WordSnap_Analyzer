@@ -1,6 +1,6 @@
 # WordSnap Analyzer
 
-WordSnap Analyzer is an AI keyword extractor used to get keywords from text using Open AI's completions Api to extract text from a given paragraph. This project aims to learn and explore Open AI's API.
+WordSnap Analyzer is an SEO-like tool/keyword extractor used to extract keywords from text pasted. It uses Open AI's completions Api to extract text from a paragraph. This project aims to learn and explore Open AI's API.
 
 
 # Getting Started
